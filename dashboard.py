@@ -42,7 +42,7 @@ st.write(" ")
 st.write(" ")
 st.write(" ")
 
-
+st.info(f":violet[*Bar Chart Visualization*]")
 st.bar_chart(sales_barchart, x="labels",y="values", sort=False, x_label="Months", y_label="Sales")
 
 
