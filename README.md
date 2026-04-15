@@ -1,5 +1,5 @@
 ## streamlit_python
-##python streamlit for Atractive/Responsive Dashbboard.
+## python streamlit for Atractive/Responsive Dashbboard UI.
 ```bash
 pip install streamlit
 ```
@@ -25,4 +25,4 @@ streamlit run filename.ext
 
 ## License
 
-[MIT](https://neptasy.vercel.app/)
+[Company Link For Now!!](https://neptasy.vercel.app/)
